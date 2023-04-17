@@ -1,1 +1,2 @@
 this is file in branch 3
+new line added to the branch 3
